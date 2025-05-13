@@ -67,4 +67,8 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License.
+=======
+This project is licensed under the MIT License.
+>>>>>>> 4872051496c1520424bcb41ec31c3f43123b8e92
